@@ -18,4 +18,4 @@ Quickstart for Bash in Azure Cloud Shell
 
 # LEARNINGS FROM MY EXPERIENCE ON LAB 1
 ## 1. Launch an Azure Cloud shell
-The very first thing to do is
+The very first thing to do is go to the Azure portal. Please note that you must have created an Azure account first before you can access the Azure portal. When you arrive at the portal go to the notification bars and click on the first box from your left. Clicking on that will launch the Azure Cloud shell.
