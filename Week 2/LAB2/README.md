@@ -23,7 +23,7 @@ Quickstart for AWS CloudShell
 
 # Notes From My LAB 2 Experience 
 
-## 1. Create virtual machine
+## 1. Create virtual machine.
 Like i stated in the previous lab The Aws virtual machine can be created basically using two procedures
 
 The GUI and;
