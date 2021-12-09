@@ -24,7 +24,7 @@ pwsd-for powershell
 
 bash- for bash.
 
-## 2. Create virtual machine
+## 2. Create virtual machine.
 The Aws virtual machine can be created basically using two procedures
 
 The GUI 
