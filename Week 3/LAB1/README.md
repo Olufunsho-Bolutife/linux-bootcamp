@@ -61,7 +61,7 @@ over time, I have been able to learn how to SSH into my VM. Although, at first i
 
 I ssh into my Vm to install a LAMP stack (Linux, Apache, Mysql, PHP).
 
-## 5. Install Apache, MySQL, and PHP
+## 5. Install Apache, MySQL, and PHP.
 To install the LAMP stack (Linux, Apache, Mysql, PhP), I was able to learn and run the commands to install the various applications from how we were taught during the bootcamp lecture
 
 Although they can be installed easily using the GUI,I was able to install mine using various commands taught during the lecture. I was able to install Apache, PHP and Mysql using this command on Azure portal.

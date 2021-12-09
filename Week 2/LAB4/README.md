@@ -56,7 +56,7 @@ Using the CLi we can view the status of our installed web server which is apache
 
  (this is to check whether or not the web server which is apache is running)
 
-## 5. Stop the service
+## 5. Stop the service.
 The following command is to disable or stop the apache service from running
 
 *sudo systemctl disable httpd*
