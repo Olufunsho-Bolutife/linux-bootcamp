@@ -47,7 +47,7 @@ Port 80 is default for web traffic. it is the port that allows the public have a
 ## 4. Connect to virtual machine
 I ssh into my Virtual machine using the ssh client(windows terminal). I copied the key on the interface and opened it on my local bash where the key is located and i was able to connect to my VM.
 
-5. Install web server
+## 5. Install web server
 I was able to install a web server (apache2) using the following command;
 
 *yum update -y* \
