@@ -50,7 +50,7 @@ gcloud projects --help
 gcloud projects create --help
 ```
 
-```bash
+```bash.
 # Create a new project and set as default.
 gcloud projects create <project_id> --name=<project_name> --set-as-default
 ```
