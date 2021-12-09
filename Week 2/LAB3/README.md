@@ -215,7 +215,7 @@ curl $HTTP_ADDRESS
 gcloud compute instances stop web-instance-01
 ```
 
-## More information
+## More information 
 
 [Free Trial and Free Tier](https://cloud.google.com/free "Free Trial and Free Tier")
 
