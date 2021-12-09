@@ -42,7 +42,7 @@ The command line. I used both for the creation of my VMs. I used the Cli to crea
 
 
 ## 3. Open port 80 for web traffic
-Port 80 is default for web traffic. it is the port that allows the public have access to the web server to fetch information from the server. If the Vm is created to allows web server then port 80 needs to be opened for traffic. I opened port 80 on my already craeted using the interface. clicked on security group, then to the inbound rule, I opened a new inbound rule to allow HTTP and port 80 was opened.
+Port 80 is default for web traffic. it is the port that allows the public have access to the web server to fetch information from the server. If the Vm is created to allows web server then port 80 needs to be opened for traffic. I opened port 80 already while i was creating the instance through GUI. I clicked on security group, then to the inbound rule, I opened a new inbound rule to allow HTTP and port 80 was opened.
 
 ## 4. Connect to virtual machine
 I ssh into my Virtual machine using the ssh client(windows terminal). I copied the key on the interface and opened it on my local bash where the key is located and i was able to connect to my VM.
