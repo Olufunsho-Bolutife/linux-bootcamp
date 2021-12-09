@@ -56,7 +56,7 @@ One will want to manage the VM and will want to run the management tasks such as
 
 *az group delete* (to delete a resource group)
 
-Below are some scrrenshot taken while i worked on the lab
+## Below are some scrrenshot taken while i worked on the lab
 
 ![](https://i.imgur.com/5TZxB0W.jpg[/)
 
