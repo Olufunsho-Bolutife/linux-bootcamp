@@ -87,3 +87,21 @@ Just like the LAMP stack I installed wordpress using the following command
 
 using this commnand i was able to write a wordpress script
 I was able to view all my applications in action and also edited my wordpress content.
+
+ ## Below are some screen shots 
+
+ ![img](https://i.imgur.com/LwDKbRc.jpg) Apache server test page with code block on azure CLI
+
+ ![img](https://i.imgur.com/yp8Yh3a.jpg) Php Test page with code block on Azure CLI 
+
+ ![img](https://i.imgur.com/5r7y14a.jpg) Wordpress Launch Page
+
+ ![img](https://i.imgur.com/SZZKabv.jpg) 
+
+ ![img](https://i.imgur.com/1Ak6CZF.jpg)
+
+ ![img](https://i.imgur.com/cBk5DMf.jpg) 
+
+ ![img](https://i.imgur.com/9Wp4Q7m.jpg)
+
+ 

@@ -29,7 +29,7 @@ Create bootstrap actions to install additional software
 I was able to create a linux Virtual machine using AWS platform. I created the Instance using CLI, configured the images and region and I ssh into the running instance. full details on this was explicitly explained in the previouis labs (1, 2, 3)
 
 ## 2. Install the Apache Web Server
-One can install a web server on a running instance. I was able to install a web server (apache) into my running virtual machine using the CLI, I was able to run the following command
+One can install a web server on a running instance. I was able to install a web server (apache) into my running virtual machine through my terminal, I ran the following command
 
  *yum update -y* \
  
@@ -38,7 +38,7 @@ One can install a web server on a running instance. I was able to install a web 
   ( this is the command to install apache web server).
 
 ## 3. Start the service status via command line
-After installing any server on instances or even installing applications on our local system we need to start the application for it to function. Same goes for the web server installed on our various instances we need to start the web server for it to run so we use the following command given that apache is already installed successfully on the instance.
+After installing any server on instances or even installing applications on our local system we need to start the application for it to function. Same goes for the web server installed on our ec2 instances we need to start the web server for it to run so i ran the following command given that apache is already installed successfully on the instance.
 
 *sudo systemctl start httpd*
 
@@ -50,7 +50,7 @@ After i've successfully installed and started our web server, I need to check it
 ### Note
 That port 80 will have to be opened in order  to be able to view the server in action usisng our IP address.
 
-Using the CLi we can view the status of our installed web server which is apache by running the following command
+Likewise, on the terminal, the status of the installed web server can be viewed and investigated by running the command below;
 
 *sudo service httpd status*
 

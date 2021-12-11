@@ -56,3 +56,25 @@ To secure my database which is MySql i ran the following command to start and se
 *sudo mysql_secure_installation* - (This is to secure Mysql)
 
  I was able to set my password, disable the remote root login and i was able to remove the test database).
+
+ ## Below are some screen shots 
+
+![](https://i.imgur.com/m8ZjOW7.jpg)
+
+![img](https://i.imgur.com/fw1d7hx.jpg)
+
+
+![img](https://i.imgur.com/z53T3Nz.jpg)
+
+![img](https://i.imgur.com/H4HU4sU.jpg)
+
+![img](https://i.imgur.com/qSRPTHN.jpg)
+
+![img](https://i.imgur.com/sAop7Uq.jpg)
+
+![img](https://i.imgur
+
+![img](https://i.imgur.com/4G8lfRP.jpg)
+
+![img](https://i.imgur.com/afEtnTe.jpg)
+
