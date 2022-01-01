@@ -6,7 +6,7 @@
 4. Understand VM images
 5. Understand VM sizes
 6. VM power states
-7. Management tasks
+7. Management tasks 
 
 ### Notes:
 

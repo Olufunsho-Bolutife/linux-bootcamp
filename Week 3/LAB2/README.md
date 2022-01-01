@@ -57,7 +57,7 @@ To secure my database which is MySql i ran the following command to start and se
 
  I was able to set my password, disable the remote root login and i was able to remove the test database).
 
- ## Below are some screen shots 
+ ## Below are some screenshots 
 
 ![](https://i.imgur.com/m8ZjOW7.jpg)
 
