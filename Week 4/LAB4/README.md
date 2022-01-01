@@ -10,4 +10,4 @@
 ### Notes:
 
 Deploy a containerized web application with AWS App Runner
-* https://docs.aws.amazon.com/apprunner/latest/dg/getting-started.html
+* https://docs.aws.amazon.com/apprunner/latest/dg/getting-started.html 
